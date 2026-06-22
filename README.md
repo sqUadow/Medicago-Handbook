@@ -157,6 +157,16 @@ These materials are provided as an archived collection for research and educatio
 
 ---
 
+## Support the Internet Archive
+
+This collection was preserved through the [Wayback Machine](https://web.archive.org/). If you find this archive useful, please consider supporting the Internet Archive's mission to provide universal access to human knowledge:
+
+[![Support the Internet Archive](https://archive.org/includes/archive.org.svg)](https://archive.org/donate/)
+
+The Internet Archive's preservation work ensures that valuable scientific resources like this handbook remain accessible for future researchers and educators.
+
+---
+
 ## Contributing
 
 This is a preservation repository. To report issues with specific protocols or suggest improvements, please contact the original authors as listed in individual document headers.
