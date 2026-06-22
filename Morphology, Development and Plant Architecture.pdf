@@ -1,0 +1,407 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head id="ctl00_HeadTag"><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=2N_sDSC0" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=o9P2E1FK" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://www.noble.org/MedicagoHandbook/pdf/MorphologyDevelopment.pdf","20120904180212","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1346781732");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+<title>
+	Page Not Found
+</title><meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+                
+        <script src="https://web.archive.org/web/20120904180212js_/http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+        
+        <script src="/web/20120904180212js_/https://www.noble.org/noble/media/scripts/jquery.lightbox-0.5.js" type="text/javascript"></script>
+        <script src="/web/20120904180212js_/https://www.noble.org/noble/media/scripts/dhtml.js" type="text/JavaScript"></script>
+        <script src="/web/20120904180212js_/https://www.noble.org/noble/media/scripts/tabcontent.js" type="text/javascript"></script>
+        <script src="/web/20120904180212js_/https://www.noble.org/noble/media/scripts/ajax.js" type="text/javascript"></script>
+        <script src="/web/20120904180212js_/https://www.noble.org/noble/media/scripts/contentslider.js" type="text/javascript"></script>        
+        <script type="text/javascript">
+
+            // Apply the lightbox to applicable images
+            jQuery(function () {
+                var boxen = [];
+
+                //find all links w/ rel="lightbox[gallery_name]" or just rel="lightbox" it works both ways
+                jQuery('a[rel*=lightbox]').each(function () {
+
+                    //push only unique lightbox[gallery_name] into boxen array
+                    if (jQuery.inArray(jQuery(this).attr('rel'), boxen)) boxen.push(jQuery(this).attr('rel'));
+
+                });
+
+                //for each unique lightbox group, apply the lightBox
+                jQuery(boxen).each(function (i, val) {
+                    jQuery('a[rel="' + val + '"]').lightBox(
+	                        {
+	                            imageLoading: '/noble/media/images/loading.gif',
+	                            imageBtnClose: '/noble/media/images/closelabel.gif',
+	                            imageBtnPrev: '/noble/media/images/prevlabel.gif',
+	                            imageBtnNext: '/noble/media/images/nextlabel.gif'
+	                        }
+
+                        );
+                });
+            });
+
+            function clearDefaultandCSS(el) {
+                if (el.defaultValue == el.value) el.value = ""
+                // If Dynamic Style is supported, clear the style
+                if (el.style) el.style.cssText = ""
+            }
+
+            function GetCookie(name) {
+                var dc = document.cookie;
+                var prefix = name + "=";
+                var begin = dc.indexOf("; " + prefix);
+                if (begin == -1) {
+                    begin = dc.indexOf(prefix);
+                    if (begin != 0) return null;
+                } else {
+                    begin += 2;
+                }
+                var end = document.cookie.indexOf(";", begin);
+                if (end == -1) {
+                    end = dc.length;
+                }
+                return unescape(dc.substring(begin + prefix.length, end));
+            }
+            function HideDisplayLoginLinks() {
+                if (GetCookie('UserID') == null) {
+                    document.getElementById("LogInLink").style.display = 'block';
+                    document.getElementById("LogOutLink").style.display = 'none';
+                } else {
+                    document.getElementById("LogInLink").style.display = 'none';
+                    document.getElementById("LogOutLink").style.display = 'block';
+                }
+            }
+            function redirectWithRedirectURL(target_url) {
+                current_url = window.location
+                redirect_url = target_url + "&RedirectTo=" + current_url
+                window.location = redirect_url
+            }
+            window.onload = function () {       
+                //GetRating();
+            }
+        </script>
+        
+        <link href="/web/20120904180212cs_/https://www.noble.org/noble/media/styles/styles.css" rel="stylesheet" type="text/css" media="screen, print"/><link rel="shortcut icon" href="https://web.archive.org/web/20120904180212im_/http://www.noble.org/favicon.ico"/><link rel="apple-touch-icon" href="https://web.archive.org/web/20120904180212im_/http://www.noble.org/noble/media/images/apple-touch-icon.png"/><meta name="description" content="The Samuel Roberts Noble Foundation is an independent, nonprofit institute headquartered in Ardmore, Okla. Founded in 1945, the Noble Foundation conducts direct operations, including assisting farmers and ranchers, and conducting plant science research and agricultural programs, to enhance agricultural productivity regionally, nationally and internationally."/><meta name="keywords" content="noble foundation, samuel roberts, agriculture, plant biology, forage improvement, ag, research, ardmore, oklahoma, ok, texas, granting, philanthropy, medicago truncatula, biofuels, genomics, agronomy, metabolic engineering, plant-microbe interactions, cell and developmental biology, plant transformation, plant breeding, agricultural listing directory, ecattlelog, custom hire listings, hay and pasture available listings, hunting and recreational lease registry, cooperators, consultation program, internships, employment opportunities, lloyd noble, faculty, plant image gallery, profiles and perspectives, exploration in science, events, sam noble scholarship, lloyd noble scholars, noble summer research scholars, agventure, jr. beef excellence program, ag news and views, legacy magazine, agexchange, richard dixon, bill buckner"/></head>
+    <body id="ctl00_BodyTag" class="">
+        <form name="aspnetForm" method="post" action="/web/20120904180212/https://www.noble.org/404.aspx?404%3bhttps%3a%2f%2fwww.noble.org%3a443%2fMedicagoHandbook%2fpdf%2fMorphologyDevelopment.pdf" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2Ng9kFgJmD2QWAgIDDxYCHgVjbGFzc2UWAgIBEGRkFgICAQ9kFgYCAQ8WAh4HVmlzaWJsZWdkAgUPD2QWAh4Jb25rZXlkb3duBaABaWYgKChldmVudC53aGljaCAmJiBldmVudC53aGljaCA9PSAxMykgfHwgKGV2ZW50LmtleUNvZGUgJiYgZXZlbnQua2V5Q29kZSA9PSAxMykpIHtfX2RvUG9zdEJhY2soJ2N0bDAwJEhlYWRlciRTZWFyY2hCdXR0b24nLCcnKTtyZXR1cm4gZmFsc2U7fSBlbHNlIHJldHVybiB0cnVlO2QCCw9kFgICAQ9kFgJmD2QWAmYPDxYCHwFnZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFGWN0bDAwJEhlYWRlciRTZWFyY2hCdXR0b24avsnZCq4kPQfYL4gUliYoC+O0RtOZIzrxjIzTT2GErQ=="/>
+</div>
+
+<div>
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLs273QCAK+pJfPAQL7yN+VDnOvyIGLxsQ6gnApr5uVtnw5phbAKtWysZpb4wNJRq1C"/>
+</div>
+            <div class="sideshadow">
+                <div class="container">
+                    
+
+<div class="header">
+    <div class="head1">
+        <a href="/web/20120904180212/https://www.noble.org/"><img src="/web/20120904180212im_/https://www.noble.org/noble/media/images/spacer.gif" width="143" height="66" border="0" alt="The Samuel Roberts Noble Foundation, Inc." title="The Samuel Roberts Noble Foundation, Inc."/></a>
+    </div>            
+    <div class="head2">
+        <div class="lilLinks">
+            <ul>
+                <li><a href="/web/20120904180212/https://www.noble.org/" id="home"><img src="/web/20120904180212im_/https://www.noble.org/noble/media/images/spacer.gif" width="32" height="5" border="0" alt="Noble.org Home page" title="Noble.org Home page"/></a></li>
+                <li><a href="/web/20120904180212/https://www.noble.org/news/news-releases/" id="news"><img src="/web/20120904180212im_/https://www.noble.org/noble/media/images/spacer.gif" width="32" height="5" border="0" alt="Noble News" title="Noble News"/></a></li>
+                <li><a href="/web/20120904180212/https://www.noble.org/events/" id="events"><img src="/web/20120904180212im_/https://www.noble.org/noble/media/images/spacer.gif" width="40" height="5" border="0" alt="Noble Events" title="Noble Events"/></a></li>
+                <li><a href="/web/20120904180212/https://www.noble.org/apps/peoplefind/" id="peoplefind"><img src="/web/20120904180212im_/https://www.noble.org/noble/media/images/spacer.gif" width="67" height="5" border="0" alt="Noble People Find" title="Noble People Find"/></a></li>
+                <li><a href="/web/20120904180212/https://www.noble.org/about/contact/" id="contact"><img src="/web/20120904180212im_/https://www.noble.org/noble/media/images/spacer.gif" width="45" height="5" border="0" alt="Contact the Noble Foundation" title="Contact the Noble Foundation"/></a></li>
+            </ul>
+        </div>
+        <div id="login"><!-- Log In | Register -->
+            <!-- test -->
+            <div style="float: left; width: 113px; text-align: center;">
+                
+                				
+				
+                    <a href="#" onclick="redirectWithRedirectURL('/apps/userinfo/login.aspx?UserTypeID=1')">Log In</a> |
+                    <a href="#" onclick="redirectWithRedirectURL('/apps/userinfo/profile.aspx?UserTypeID=1')">Register</a>
+                
+                
+                				
+                
+			
+            </div>
+				<span class="searchbox"> 
+					<input name="ctl00$Header$SearchBox" id="ctl00_Header_SearchBox" class="search2" onkeydown="if ((event.which &amp;&amp; event.which == 13) || (event.keyCode &amp;&amp; event.keyCode == 13)) {__doPostBack('ctl00$Header$SearchButton','');return false;} else return true;" border="0" value="Search" onfocus="clearDefaultandCSS(this)" onclick="DoSearch" vspace="0" hspace="0" type="search" size="16"/>
+					<input type="image" name="ctl00$Header$SearchButton" id="ctl00_Header_SearchButton" src="/web/20120904180212im_/https://www.noble.org/noble/media/images/go_btn.gif" class="search_btn" border="0" vspace="0" hspace="0" style="height:19px;width:22px;border-width:0px;"/>
+					<input type="hidden" name="FreeText" value=""/>
+					<input type="hidden" name="CiScope" value="/"/>
+					<input type="hidden" name="CiMaxRecordsPerPage" value="20"/>
+					<input type="hidden" name="TemplateName" value="query"/>
+					<input type="hidden" name="CiSort" value="rank[d]"/>
+					<input type="hidden" name="HTMLQueryForm" value="query.htm"/>
+				</span>
+        </div>
+    </div>            
+    <div class="head3" id="menu">
+        
+<ul id="navmenu">
+  <li><a href="#">About +</a>
+    <ul>
+      <li><a href="/web/20120904180212/https://www.noble.org/about/overview/">Overview</a></li>
+	  <li><a href="/web/20120904180212/https://www.noble.org/about/at-a-glance/">At a Glance</a></li>
+      <li><a href="/web/20120904180212/https://www.noble.org/about/history/">Our History</a></li>
+      <li><a href="/web/20120904180212/https://www.noble.org/about/board-of-trustees/">Board of Trustees</a></li>
+      <li><a href="/web/20120904180212/https://www.noble.org/about/management/">Management</a></li>
+      <li><a href="/web/20120904180212/https://www.noble.org/about/governance/">Governance</a></li>
+      <li><a href="/web/20120904180212/https://www.noble.org/about/contact/">Contacts/Tours</a></li>
+	  <li><a href="/web/20120904180212/https://www.noble.org/about/directions/">Directions/Maps</a></li>
+    </ul>
+  </li>
+  <li><a href="#">Agricultural Programs +</a>
+    <ul>
+	  <li><a href="/web/20120904180212/https://www.noble.org/ag/">Agricultural Home</a></li>
+	  <li><a href="/web/20120904180212/https://www.noble.org/ag/cooperators/">Consultation Program</a></li>
+      <li><a href="/web/20120904180212/https://www.noble.org/events/ag/">Agricultural Events Calendar</a></li>
+      <li><a href="/web/20120904180212/https://www.noble.org/ag/tools/">Agricultural Tools</a></li>
+      <li><a href="/web/20120904180212/https://www.noble.org/ag/listings/">Agricultural Listing Directory</a></li>
+      <li><a href="/web/20120904180212/https://www.noble.org/agexchange/">AgExchange</a></li>
+      <li><a href="/web/20120904180212/https://www.noble.org/ag/staff/">Agricultural Staff</a></li>
+	  <li><a href="/web/20120904180212/https://www.noble.org/ag/helpline/">Agricultural Helpline</a></li>
+	  <li><a href="/web/20120904180212/https://www.noble.org/drought/">Drought Guide</a></li>
+	  <li><a href="/web/20120904180212/https://www.noble.org/ag/ibeef/">Integrity Beef Program</a></li>
+	  <li><a href="/web/20120904180212/https://www.noble.org/plantimagegallery/">Plant Image Gallery</a></li>
+      <li><a href="#">Publications +</a>
+        <ul>
+          <li><a href="/web/20120904180212/https://www.noble.org/ag/news-views/">Ag News and Views</a></li>
+          <li><a href="/web/20120904180212/https://www.noble.org/ag/publications/">Agricultural Publications</a></li>
+		  <li><a href="/web/20120904180212/https://www.noble.org/apps/storefront/">Books for Purchase</a></li>
+        </ul>
+      </li>
+    </ul>
+
+  </li>
+  <li><a href="#">Research &amp; Faculty +</a>
+    <ul>
+	  <li><a href="#">Research Groups +</a>
+	  	<ul>
+			<li><a href="/web/20120904180212/https://www.noble.org/research/">Research Home</a></li>
+			<li><a href="/web/20120904180212/https://www.noble.org/ag-research/">Ag Research Team</a></li>
+			<li><a href="/web/20120904180212/https://www.noble.org/forageimprovement/">Forage Improvement Division</a></li>
+			<li><a href="/web/20120904180212/https://www.noble.org/plantbio/">Plant Biology Division</a></li>
+		</ul>
+	  </li>
+	  <li><a href="/web/20120904180212/https://www.noble.org/research/applied-agricultural/">Applied Agricultural Research</a></li>
+	  <li><a href="/web/20120904180212/https://www.noble.org/research/agronomy/">Agronomy</a></li>
+	  <li><a href="/web/20120904180212/https://www.noble.org/research/biofuels/">Biofuels</a></li>
+	  <li><a href="/web/20120904180212/https://www.noble.org/research/cell-developmental-biology/">Cell and Developmental Biology</a></li>
+	  <li><a href="/web/20120904180212/https://www.noble.org/research/genomics/">Genomics</a></li>
+	  <li style="height: 34px;"><a href="/web/20120904180212/https://www.noble.org/research/metabolic-engineering/"><span style="font: bold 10px/16px Verdana, Arial, Helvetica, sans-serif;">Metabolic Engineering and Plant Natural Products</span></a></li>
+	  <li><a href="/web/20120904180212/https://www.noble.org/research/plant-breeding/">Plant Breeding</a></li>
+	  <li><a href="/web/20120904180212/https://www.noble.org/research/plant-microbe-interactions/">Plant-microbe Interactions</a></li>
+	  <li><a href="/web/20120904180212/https://www.noble.org/research/plant-transformation/">Plant Transformation</a></li>
+      <li><a href="/web/20120904180212/https://www.noble.org/research/seminars/">Plant Science Seminar Series</a></li>
+      <li><a href="/web/20120904180212/https://www.noble.org/research/faculty/">Faculty</a></li>
+      <li><a href="#">Core Facilities +</a>
+	  	<ul>
+			<li><a href="/web/20120904180212/https://www.noble.org/corefacilities/analytical-chemistry/">Analytical Chemistry</a></li>
+			<li><a href="/web/20120904180212/https://www.noble.org/corefacilities/cellular-imaging/">Cellular Imaging</a></li>
+			<li><a href="/web/20120904180212/https://www.noble.org/corefacilities/forage-analysis/">Forage Analysis</a></li>
+			<!--li><a href="#">Greenhouse</a></li-->
+			<li><a href="/web/20120904180212/https://www.noble.org/corefacilities/genomics/">Genomics/Microarray</a></li>
+			<li><a href="/web/20120904180212/https://www.noble.org/corefacilities/molecular-biomaterials/">Molecular Biological Materials</a></li>
+			<!--li><a href="#">Scientific Computing</a></li-->
+            <li><a href="/web/20120904180212/https://www.noble.org/corefacilities/transformation/">Transformation</a></li>
+		</ul>
+	  </li>
+    </ul>
+  </li>
+  <li><a href="#">Outreach &amp; Education +</a>
+    <ul>
+      <li><a href="/web/20120904180212/https://www.noble.org/profiles/"><i>Profiles and Perspectives</i> Series</a></li>
+	  <li><a href="#">Internships +</a>
+	  	<ul>
+			<li style="height: 34px;"><a href="/web/20120904180212/https://www.noble.org/noble-scholar/"><span style="font: bold 10px/16px Verdana, Arial, Helvetica, sans-serif;">Lloyd Noble Scholars in Agriculture</span></a></li>			
+			<li style="height: 34px;"><a href="/web/20120904180212/https://www.noble.org/summer-scholar/"><span style="font: bold 10px/16px Verdana, Arial, Helvetica, sans-serif;">Noble Summer Research Scholars</span></a></li>
+		</ul>
+	  </li>
+	  <li><a href="#">Youth Programs +</a>
+	  	<ul>
+			<li><a href="/web/20120904180212/https://www.noble.org/ag/jrbeef/">Jr. Beef Excellence Program</a></li>
+		</ul>
+	  </li>
+	  <li><a href="/web/20120904180212/https://www.noble.org/events/ag/">Agricultural Events</a></li>
+	  <li><a href="#">Image Galleries +</a>
+	  	<ul>
+			<li><a href="/web/20120904180212/https://www.noble.org/cell-image-gallery/">Cell Image Gallery</a></li>
+			<li><a href="/web/20120904180212/https://www.noble.org/crystallography-gallery/">Crystallography Gallery</a></li>
+			<li><a href="/web/20120904180212/https://www.noble.org/apps/plantimagegallery/">Plant Image Gallery</a></li>
+		</ul>
+	  </li>
+		<li><a href="#">Library Resources +</a>
+			<ul>
+				<li><a href="https://web.archive.org/web/20120904180212/http://noble.worldcat.org/" target="_blank">Catalog</a></li>
+				<li><a href="https://web.archive.org/web/20120904180212/https://appsrv3.noble.org:2443/login">Databases</a></li>
+			</ul>
+		</li>
+    </ul>
+  </li>
+  <li><a href="#">Philanthropy +</a>
+    <ul>
+	  <li><a href="/web/20120904180212/https://www.noble.org/philanthropy/">Philanthropy Home</a></li>
+      <li><a href="/web/20120904180212/https://www.noble.org/philanthropy/granting-guidelines/">Guidelines for Grant Seekers</a></li>
+      <li><a href="/web/20120904180212/https://www.noble.org/apps/granthistory/">Grants Database</a></li>
+	  <li><a href="/web/20120904180212/https://www.noble.org/philanthropy/granting-staff/">Granting Staff</a></li>
+	  <li><a href="/web/20120904180212/https://www.noble.org/philanthropy/scholarship/">Sam Noble Scholarship Program</a></li>
+      <!--li><a href="#">Historical Grant Reports</a></li-->
+    </ul>
+  </li>
+  <li><a href="#">News &amp; Media +</a>
+    <ul>
+	  <li><a href="/web/20120904180212/https://www.noble.org/news/news-releases/">News Releases</a></li>
+	  <li><a href="/web/20120904180212/https://www.noble.org/news/annual-report/">Annual Report</a></li>
+	  <li><a href="/web/20120904180212/https://www.noble.org/news/legacy/">Legacy Magazine</a></li>
+	  <li><a href="/web/20120904180212/https://www.noble.org/news/scientific-report/">2009 Scientific Report</a></li>
+      <li><a href="/web/20120904180212/https://www.noble.org/ag/news-views/">Ag News and Views</a></li>
+	  <li><a href="/web/20120904180212/https://www.noble.org/news/publications/">Noble Publication Listing</a></li>
+	  <li><a href="/web/20120904180212/https://www.noble.org/apps/journalcovers/">Journal Cover Publications</a></li>
+	  <li><a href="/web/20120904180212/https://www.noble.org/news/logo/">Logo</a></li>
+	  <li><a href="/web/20120904180212/https://www.noble.org/news/media-kit/">Media Kit</a></li>
+	  <li><a href="/web/20120904180212/https://www.noble.org/news/contact/">Media Contact</a></li>
+    </ul>
+  </li>
+  <li><a href="#">Employment +</a>
+    <ul style="left: -102px;">
+	  <li><a href="/web/20120904180212/https://www.noble.org/recruiting/">Employment Home</a></li>
+      <li><a href="/web/20120904180212/https://www.noble.org/recruiting/current-openings/">Current Openings</a></li>
+      <li><a href="/web/20120904180212/https://www.noble.org/events/recruiting/">Recruiting Events</a></li>
+      <li><a href="#">Internships +</a>
+	  	<ul style="left: -200px;">
+			<li style="height: 34px;"><a href="/web/20120904180212/https://www.noble.org/noble-scholar/"><span style="font: bold 10px/16px Verdana, Arial, Helvetica, sans-serif;">Lloyd Noble Scholars in Agriculture</span></a></li>		
+			<li style="height: 34px;"><a href="/web/20120904180212/https://www.noble.org/summer-scholar/"><span style="font: bold 10px/16px Verdana, Arial, Helvetica, sans-serif;">Noble Summer Research Scholars</span></a></li>
+		</ul>
+	  </li>
+      <li><a href="/web/20120904180212/https://www.noble.org/recruiting/info/"><span style="font: bold 10px/16px Verdana, Arial, Helvetica, sans-serif;">Potential Employees Information</span></a></li>
+	  <li><a href="https://web.archive.org/web/20120904180212/https://www.noble.org/apps/employmentapplication/myapplications.aspx">My Employment Applications</a></li>
+    </ul>
+  </li>
+</ul>
+
+    </div>
+    <div id="navfooter"><img src="/web/20120904180212im_/https://www.noble.org/noble/media/images/spacer.gif" width="1" height="2" border="0" alt="Noble.org" title="Noble.org"/></div>
+    <div id="ctl00_Header_pnlAgExchangeOverlayMenu">
+	
+        
+    
+</div>
+
+</div>
+
+                    
+                    <div class="main">
+                        
+    <div class="article" id="article">
+    <h1>Page Not Found</h1>
+    <p>We're sorry, but the page you requested has not been found! It may have been moved or deleted.</p> 
+
+    <p align="center"><img src="/web/20120904180212im_/https://www.noble.org/noble/media/images/campus.jpg" width="604" height="343" border="0" alt="The Samuel Roberts Noble Foundation" title="The Samuel Roberts Noble Foundation"/></p> 
+
+    <div class="container404">
+      <div class="column404">
+      <b>About</b><br/>
+      <a href="/web/20120904180212/https://www.noble.org/about/overview/">Overview</a><br/>
+      <a href="/web/20120904180212/https://www.noble.org/about/at-a-glance/">At a Glance</a><br/>
+      <a href="/web/20120904180212/https://www.noble.org/about/history/">Our History</a><br/>
+      <a href="/web/20120904180212/https://www.noble.org/about/board-of-trustees/">Board of Trustees</a><br/>
+      <a href="/web/20120904180212/https://www.noble.org/about/management/">Management</a><br/>
+      <a href="/web/20120904180212/https://www.noble.org/about/governance/">Governance</a><br/>
+      <a href="/web/20120904180212/https://www.noble.org/about/contact/">Contacts/Tours</a><br/>
+      <a href="/web/20120904180212/https://www.noble.org/about/directions/">Directions/Maps</a>
+      </div>
+  
+      <div class="column404">
+      <b>Agricultural Division</b><br/>
+      <a href="/web/20120904180212/https://www.noble.org/ag/">Division page</a><br/>
+      <a href="/web/20120904180212/https://www.noble.org/ag/cooperators/">Cooperator Program</a><br/>
+      <a href="/web/20120904180212/https://www.noble.org/events/ag/">Agricultural Events</a><br/>
+      <a href="/web/20120904180212/https://www.noble.org/ag/tools/">Tools</a><br/>
+      <a href="/web/20120904180212/https://www.noble.org/ag/listings/">Listing Directory</a><br/>
+      <a href="/web/20120904180212/https://www.noble.org/ag/staff/">Staff</a><br/>
+      <a href="/web/20120904180212/https://www.noble.org/ag/helpline/">Helpline</a><br/>
+      <a href="/web/20120904180212/https://www.noble.org/agexchange/">AgExchange</a><br/>
+      <a href="/web/20120904180212/https://www.noble.org/plantimagegallery/">Plant Image Gallery</a>
+      </div>
+  
+      <div class="column404">
+      <b>Research</b><br/>
+      <a href="/web/20120904180212/https://www.noble.org/ag-research/">Ag Research Team</a><br/>
+      <a href="/web/20120904180212/https://www.noble.org/forageimprovement/">Forage Improvement Division</a><br/>
+      <a href="/web/20120904180212/https://www.noble.org/plantbio/">Plant Biology Division</a><br/>
+      <a href="/web/20120904180212/https://www.noble.org/research/faculty/">Researchers</a><br/>
+      <a href="/web/20120904180212/https://www.noble.org/research/seminars/">Plant Science Seminar Series</a><br/>
+      <a href="/web/20120904180212/https://www.noble.org/medicago-handbook/"><i>Medicago truncatula</i> Handbook</a><br/>
+      <a href="/web/20120904180212/https://www.noble.org/cell-image-gallery/">Cell Image Gallery</a><br/>
+      <a href="/web/20120904180212/https://www.noble.org/crystallography-gallery/">Crystallography Gallery</a>
+      </div>
+  
+      <div class="column404">
+      <b>Other Information</b><br/>
+      <a href="/web/20120904180212/https://www.noble.org/recruiting/">Employment</a><br/>
+      <a href="/web/20120904180212/https://www.noble.org/philanthropy/">Philanthropy</a><br/>
+      <a href="/web/20120904180212/https://www.noble.org/apps/peoplefind/">People Find</a><br/>
+      <a href="/web/20120904180212/https://www.noble.org/news/news-releases/">News Releases</a><br/>
+      <a href="/web/20120904180212/https://www.noble.org/ag/news-views/"><i>Ag News and Views</i></a><br/>
+      <a href="/web/20120904180212/https://www.noble.org/news/legacy/"><i>Legacy</i> Magazine</a><br/>
+      <a href="/web/20120904180212/https://www.noble.org/news/annual-report/">Annual Report</a><br/>
+      <a href="/web/20120904180212/https://www.noble.org/events/">Events</a>
+      </div>
+    </div>
+    </div>
+
+                    </div>
+                    <div id="spacer" align="center"></div>
+                </div>
+            </div>
+            
+<div class="footholder">
+    <div class="footer" align="center">&copy; 1997-2012 by The Samuel Roberts Noble Foundation, Inc.</div>
+</div>
+
+<!--[if IE]></div><![endif]-->
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://web.archive.org/web/20120904180212/https://ssl." : "https://web.archive.org/web/20120904180212/http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+    var pageTracker = _gat._getTracker("UA-3506810-1");
+    pageTracker._initData();
+    pageTracker._trackPageview();
+</script>
+        </form>
+    </body>
+    <!--[if IE]></div><![endif]-->
+</html><!--
+     FILE ARCHIVED ON 18:02:12 Sep 04, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:17:07 Jun 22, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.353
+  exclusion.robots: 0.033
+  exclusion.robots.policy: 0.026
+  esindex: 0.006
+  cdx.remote: 5.315
+  LoadShardBlock: 182.835 (3)
+  PetaboxLoader3.datanode: 172.175 (4)
+  PetaboxLoader3.resolve: 288.817 (3)
+  load_resource: 303.951
+-->
