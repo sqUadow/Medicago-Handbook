@@ -4,6 +4,8 @@ A comprehensive collection of research protocols and guidelines for working with
 
 **ISBN 0-9754303-1-9**
 
+⚠️ **Note on Missing Files:** Due to limitations in how the Wayback Machine archived this collection, 20 of the 40 PDFs could not be recovered (marked below with ⚠️). The remaining 20 PDFs with complete content are included. If you have access to any of the missing chapters, please consider contributing them.
+
 ---
 
 ## Table of Contents
@@ -21,7 +23,7 @@ A comprehensive collection of research protocols and guidelines for working with
 
 ## Introduction
 
-- [Preface.pdf](Preface.pdf) - Introduction to the Medicago truncatula Handbook
+- ⚠️ **[MISSING]** Preface - Introduction to the Medicago truncatula Handbook
 
 ---
 
@@ -29,8 +31,8 @@ A comprehensive collection of research protocols and guidelines for working with
 
 ### Development and Morphology
 
-- [Morphology, Development and Plant Architecture.pdf](Morphology,%20Development%20and%20Plant%20Architecture.pdf) - Vegetative development (D. Moreau)
-- [Evolutionary and Ecological Genetics.pdf](Evolutionary%20and%20Ecological%20Genetics.pdf) - Population genetics and evolutionary perspective (T. Bataillon, J. Ronfort)
+- ⚠️ **[MISSING]** Morphology, Development and Plant Architecture - Vegetative development (D. Moreau)
+- ⚠️ **[MISSING]** Evolutionary and Ecological Genetics - Population genetics and evolutionary perspective (T. Bataillon, J. Ronfort)
 - [Seed Biology.pdf](Seed%20Biology.pdf) - Comprehensive seed biology and germination (K. Gallardo et al.)
 - [Response to Abiotic Stress.pdf](Response%20to%20Abiotic%20Stress.pdf) - Responses to drought, cold, and nutrient stress (A.M. Limami et al.)
 
@@ -41,10 +43,10 @@ A comprehensive collection of research protocols and guidelines for working with
 
 ### Pathogenic Interactions
 
-- [Fungi.pdf](Fungi.pdf) - Fungal pathogen protocols (S. Ellwood, J. Lichtenzveig et al.)
-- [Parasitic Plants.pdf](Parasitic%20Plants.pdf) - Root parasitic plant interactions (A. Pérez-de-Luque et al.)
+- ⚠️ **[MISSING]** Fungi - Fungal pathogen protocols (S. Ellwood, J. Lichtenzveig et al.)
+- ⚠️ **[MISSING]** Parasitic Plants - Root parasitic plant interactions (A. Pérez-de-Luque et al.)
 - [Medicago truncatula Resistance to Oomycetes.pdf](Medicago%20truncatula%20Resistance%20to%20Oomycetes.pdf) - Oomycete resistance (A. Moussart et al.)
-- [Interaction with Insects.pdf](Interaction%20with%20Insects.pdf) - Insect interactions and pest resistance (O. Edwards et al.)
+- ⚠️ **[MISSING]** Interaction with Insects - Insect interactions and pest resistance (O. Edwards et al.)
 
 ---
 
@@ -52,7 +54,7 @@ A comprehensive collection of research protocols and guidelines for working with
 
 ### Overview and General Culture
 
-- [Growing Medicago Overview.pdf](Growing%20Medicago%20Overview.pdf) - Overview of growth and propagation (E-P Journet)
+- ⚠️ **[MISSING]** Growing Medicago Overview - Overview of growth and propagation (E-P Journet)
 - [Growing M. truncatula choice of substrates and gr.pdf](Growing%20M.%20truncatula%20choice%20of%20substrates%20and%20gr.pdf) - Substrate selection and growth conditions (D.G. Barker et al.)
 - [Seed Storage and Germination.pdf](Seed%20Storage%20and%20Germination.pdf) - Seed storage and germination protocols (J. Garcia, D.G. Barker, E-P Journet)
 
@@ -76,9 +78,9 @@ A comprehensive collection of research protocols and guidelines for working with
 
 ### Germplasm and Genetic Resources
 
-- [M. truncatula Stock Centres.pdf](M.%20truncatula%20Stock%20Centres.pdf) - Stock center information and resources (R. Nair et al.)
+- ⚠️ **[MISSING]** M. truncatula Stock Centres - Stock center information and resources (R. Nair et al.)
 - [Wild Accessions Populations.pdf](Wild%20Accessions%20Populations.pdf) - Wild accessions and populations (S. Greene et al.)
-- [M. truncatula Cultivars.pdf](M.%20truncatula%20Cultivars.pdf) - Available cultivars (R. Nair, J. Howie, M. Delalande)
+- ⚠️ **[MISSING]** M. truncatula Cultivars - Available cultivars (R. Nair, J. Howie, M. Delalande)
 
 ### Bioinformatics and Genomic Resources
 
@@ -92,7 +94,7 @@ A comprehensive collection of research protocols and guidelines for working with
 
 ### Molecular Resources
 
-- [cDNA and Genomic Libraries.pdf](cDNA%20and%20Genomic%20Libraries.pdf) - cDNA and genomic library resources (P. Gamas et al.)
+- ⚠️ **[MISSING]** cDNA and Genomic Libraries - cDNA and genomic library resources (P. Gamas et al.)
 - [Mutant Gene Nomenclature.pdf](Mutant%20Gene%20Nomenclature.pdf) - Gene nomenclature standards (J. Frugoli)
 
 ---
@@ -102,19 +104,19 @@ A comprehensive collection of research protocols and guidelines for working with
 ### Cell Culture
 
 - [Cell Suspension Cultures.pdf](Cell%20Suspension%20Cultures.pdf) - Plant cell suspension culture methods (A. Iantcheva et al.)
-- [Somatic Embryogenesis from Leaf Explants.pdf](Somatic%20Embryogenesis%20from%20Leaf%20Explants.pdf) - In vitro embryogenesis (A. Iantcheva, M. Vlahova, A. Atanassov)
+- ⚠️ **[MISSING]** Somatic Embryogenesis from Leaf Explants - In vitro embryogenesis (A. Iantcheva, M. Vlahova, A. Atanassov)
 
 ### Transformation Methods
 
 - [Agrobacterium rhizogenes-mediated Root Transformation.pdf](Agrobacterium%20rhizogenes-mediated%20Root%20Transformation.pdf) - Root transformation protocols (M. Chabaud et al.)
-- [Agrobacterium tumefaciens-mediated Transformation.pdf](Agrobacterium%20tumefaciens-mediated%20Transformation.pdf) - Whole plant transformation and regeneration (M. Chabaud et al.)
+- ⚠️ **[MISSING]** Agrobacterium tumefaciens-mediated Transformation - Whole plant transformation and regeneration (M. Chabaud et al.)
 
 ---
 
 ## Microscopy and Cytology
 
-- [Immunolocalization.pdf](Immunolocalization.pdf) - Immunofluorescence protocols (B. Hause, F. Frugier, M. Crespi)
-- [Flow Cytometry.pdf](Flow%20Cytometry.pdf) - Flow cytometry for ploidy and cell cycle analysis (S.J. Ochatt)
+- ⚠️ **[MISSING]** Immunolocalization - Immunofluorescence protocols (B. Hause, F. Frugier, M. Crespi)
+- ⚠️ **[MISSING]** Flow Cytometry - Flow cytometry for ploidy and cell cycle analysis (S.J. Ochatt)
 
 ---
 
@@ -126,17 +128,17 @@ A comprehensive collection of research protocols and guidelines for working with
 
 ### Mutagenesis and Screening
 
-- [Mutant Generation Using Gamma Rays.pdf](Mutant%20Generation%20Using%20Gamma%20Rays.pdf) - Gamma ray mutagenesis (G. Duc, A. Pelletier)
-- [Insertional Mutagenesis.pdf](Insertional%20Mutagenesis.pdf) - Tnt1 retrotransposon insertion (P. Ratet et al.)
-- [Mutant Screening and Phenology Key.pdf](Mutant%20Screening%20and%20Phenology%20Key.pdf) - Mutant screening and developmental stages (D. Moreau, N. Munier-Jolain)
-- [Sharing Phenotypic Data.pdf](Sharing%20Phenotypic%20Data.pdf) - Phenotypic data coding and developmental models (J. Hanan et al.)
+- ⚠️ **[MISSING]** Mutant Generation Using Gamma Rays - Gamma ray mutagenesis (G. Duc, A. Pelletier)
+- ⚠️ **[MISSING]** Insertional Mutagenesis - Tnt1 retrotransposon insertion (P. Ratet et al.)
+- ⚠️ **[MISSING]** Mutant Screening and Phenology Key - Mutant screening and developmental stages (D. Moreau, N. Munier-Jolain)
+- ⚠️ **[MISSING]** Sharing Phenotypic Data - Phenotypic data coding and developmental models (J. Hanan et al.)
 
 ---
 
 ## Functional Genomics
 
-- [Transcriptomics.pdf](Transcriptomics.pdf) - Gene expression analysis and microarrays (H. Küster et al.)
-- [Proteomics.pdf](Proteomics.pdf) - Protein analysis and proteomics methods (S. Nagaraj et al.)
+- ⚠️ **[MISSING]** Transcriptomics - Gene expression analysis and microarrays (H. Küster et al.)
+- ⚠️ **[MISSING]** Proteomics - Protein analysis and proteomics methods (S. Nagaraj et al.)
 
 ---
 
@@ -144,10 +146,11 @@ A comprehensive collection of research protocols and guidelines for working with
 
 This repository preserves the complete *Medicago truncatula* Handbook, a comprehensive resource for researchers using this model plant organism. The handbook contains contributions from leading researchers in the field and covers protocols, methodologies, and resources essential for *Medicago* research.
 
-**Total PDFs:** 40  
-**Total Size:** 10 MB  
+**Available PDFs:** 20 of 40  
+**Missing PDFs:** 20 (⚠️ marked in table of contents above)  
+**Total Size (Available):** ~5 MB  
 **Source:** The Samuel Roberts Noble Foundation (archived via Wayback Machine)  
-**Note:** Includes the 2016 update adding the Hybridization chapter, which was not present in the 2011 release.
+**Note:** The Wayback Machine archived 20 of the 40 chapters as corrupted files (HTML wrappers or empty). The remaining 20 PDFs with complete content are included. Includes the 2016 update adding the Hybridization chapter.
 
 ---
 
